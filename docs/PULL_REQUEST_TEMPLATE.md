@@ -1,9 +1,9 @@
 # Tipo de usuario
+- [ ] Foo
 - [ ] Alfa
 - [ ] Bravo 
 - [ ] Charlie
-- [ ] Delta
-- [ ] Echo
+
 
 # Tecnología
 - [ ] Python 
