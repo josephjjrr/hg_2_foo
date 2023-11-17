@@ -8,4 +8,6 @@ generic script
 
 def fn_hack_1():
     result = [100,200,300,400,500,600,700] 
+    del result[:]
     return result
+print(fn_hack_1())

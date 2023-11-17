@@ -8,5 +8,6 @@ generic script
 
 def fn_hack_8():
     result = [100,200,300,400,500,600,700]
-    #...
+    result.append("Foo")
     return result
+print(fn_hack_8())
