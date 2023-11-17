@@ -1,0 +1,27 @@
+----------------------------
+FONT: Cerebri
+
+TEXT: ALL
+----------------------------
+MAIN BACKGROUND
+
+COLOR: #FFF8EE
+
+---------------------------
+NAV PINK
+
+COLOR: #FFC1D3
+
+----------------------------
+BOX BLUE
+
+COLOR: #85E0E4
+
+----------------------------
+SEMI CIRCLE
+
+YELLOW COLOR: #FFD900
+PINK COLOR: #FFC1D3
+CORAL COLOR: #FF5757
+
+----------------------------

@@ -1,0 +1,20 @@
+----------------------------
+FONT: Horizon
+
+TEXT: ¡música en directo!
+
+----------------------------
+FONT: Anonymous Pro
+
+TEXT: Con dos Invitados especiales, los Reyes de la música
+TEXT: Haz tu reserva en www.unsitioincreible.com
+
+----------------------------
+FONT: Anton
+
+TEXT: música Club
+
+----------------------------
+MAIN BACKGROUND
+
+COLOR: #5CE1E6
