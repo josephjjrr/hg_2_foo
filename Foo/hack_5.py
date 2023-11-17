@@ -8,5 +8,6 @@ generic script
 
 def fn_hack_5():
     result = [100,200,300,400,500,600,700]
-    #...
-    return result
+    new = list(result)
+    return new
+print(fn_hack_5())

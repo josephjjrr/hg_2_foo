@@ -6,7 +6,10 @@ generic script
 """
 
 
-def fn_hack_4():
+def fn_hack_5():
     result = [100,200,300,400,500,600,700]
-    #...
+    for index, valor in enumerate(result):
+        if (valor == 300) or (valor == 500):
+            del result[index]
     return result
+print(fn_hack_5())
